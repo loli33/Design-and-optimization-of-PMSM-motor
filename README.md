@@ -1,5 +1,5 @@
 # Design-and-optimization-of-IPMSM-motor
-We have done a design of 10kW PMSM motor using MOTOR-XP software
+We have done a design of 8kW PMSM motor using MOTOR-XP software
 Calculation of torque and power file is attached 
 Steps:
   - Choose a reference vehicle
